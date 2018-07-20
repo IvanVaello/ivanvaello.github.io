@@ -624,7 +624,7 @@
           <front url="stereopano2_vr_%t/0/1/%v_%u.jpg"/>
           <right url="stereopano2_vr_%t/1/1/%v_%u.jpg"/>
           <back  url="stereopano2_vr_%t/2/1/%v_%u.jpg"/>
-          <left  url="stereopano2_vrt%t/3/1/%v_%u.jpg"/>
+          <left  url="stereopano2_vr_%t/3/1/%v_%u.jpg"/>
           <up    url="stereopano2_vr_%t/4/1/%v_%u.jpg"/>
           <down  url="stereopano2_vr_%t/5/1/%v_%u.jpg"/>
       </level>
@@ -638,12 +638,12 @@
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="stereopano2_vr_%tt/mobile/0.jpg"/>
-        <right url="stereopano2_vr_%tt/mobile/1.jpg"/>
-        <back  url="stereopano2_vr_%tt/mobile/2.jpg"/>
-        <left  url="stereopano2_vr_%tt/mobile/3.jpg"/>
-        <up    url="stereopano2_vr_%tt/mobile/4.jpg"/>
-        <down  url="stereopano2_vr_%tt/mobile/5.jpg"/>
+        <front url="stereopano2_vr_%t/mobile/0.jpg"/>
+        <right url="stereopano2_vr_%t/mobile/1.jpg"/>
+        <back  url="stereopano2_vr_%t/mobile/2.jpg"/>
+        <left  url="stereopano2_vr_%t/mobile/3.jpg"/>
+        <up    url="stereopano2_vr_%t/mobile/4.jpg"/>
+        <down  url="stereopano2_vr_%t/mobile/5.jpg"/>
       </image>
 
 
