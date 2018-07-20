@@ -599,31 +599,31 @@
 
     <preview url="%FIRSTXML%/stereopano2_vr_80/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
-    <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl" stereo="true" stereolabels="80|81">
+    <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl"     >
       <level tiledimagewidth="1536" tiledimageheight="1536">
-          <front url="stereopano2_vr_%t/0/1/%v_%u.jpg"/>
-          <right url="stereopano2_vr_%t/1/1/%v_%u.jpg"/>
-          <back  url="stereopano2_vr_%t/2/1/%v_%u.jpg"/>
-          <left  url="stereopano2_vr_%t/3/1/%v_%u.jpg"/>
-          <up    url="stereopano2_vr_%t/4/1/%v_%u.jpg"/>
-          <down  url="stereopano2_vr_%t/5/1/%v_%u.jpg"/>
+          <front url="stereopano2_vr_80/0/1/%v_%u.jpg"/>
+          <right url="stereopano2_vr_80/1/1/%v_%u.jpg"/>
+          <back  url="stereopano2_vr_80/2/1/%v_%u.jpg"/>
+          <left  url="stereopano2_vr_80/3/1/%v_%u.jpg"/>
+          <up    url="stereopano2_vr_80/4/1/%v_%u.jpg"/>
+          <down  url="stereopano2_vr_80/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="stereopano2_vr_%t/0/0/%v_%u.jpg"/>
-          <right url="stereopano2_vr_%t/1/0/%v_%u.jpg"/>
-          <back  url="stereopano2_vr_%t/2/0/%v_%u.jpg"/>
-          <left  url="stereopano2_vr_%t/3/0/%v_%u.jpg"/>
-          <up    url="stereopano2_vr_%t/4/0/%v_%u.jpg"/>
-          <down  url="stereopano2_vr_%t/5/0/%v_%u.jpg"/>
+          <front url="stereopano2_vr_80/0/0/%v_%u.jpg"/>
+          <right url="stereopano2_vr_80/1/0/%v_%u.jpg"/>
+          <back  url="stereopano2_vr_80/2/0/%v_%u.jpg"/>
+          <left  url="stereopano2_vr_80/3/0/%v_%u.jpg"/>
+          <up    url="stereopano2_vr_80/4/0/%v_%u.jpg"/>
+          <down  url="stereopano2_vr_80/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="stereopano2_vr_%t/mobile/0.jpg"/>
-        <right url="stereopano2_vr_%t/mobile/1.jpg"/>
-        <back  url="stereopano2_vr_%t/mobile/2.jpg"/>
-        <left  url="stereopano2_vr_%t/mobile/3.jpg"/>
-        <up    url="stereopano2_vr_%t/mobile/4.jpg"/>
-        <down  url="stereopano2_vr_%t/mobile/5.jpg"/>
+        <front url="stereopano2_vr_80/mobile/0.jpg"/>
+        <right url="stereopano2_vr_80/mobile/1.jpg"/>
+        <back  url="stereopano2_vr_80/mobile/2.jpg"/>
+        <left  url="stereopano2_vr_80/mobile/3.jpg"/>
+        <up    url="stereopano2_vr_80/mobile/4.jpg"/>
+        <down  url="stereopano2_vr_80/mobile/5.jpg"/>
       </image>
 
 
