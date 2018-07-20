@@ -577,7 +577,6 @@
        full360="true"
        video="false"
        seen="false"
-       onstart="set(display.stereo,true)"
        >
 
     <autorotate horizon="0.000000" tofov="90.000000" waittime="1" speed="5"/>
